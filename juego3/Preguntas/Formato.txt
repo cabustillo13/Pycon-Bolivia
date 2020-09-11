@@ -1,0 +1,10 @@
+Las preguntas y sus respuestas deben ir en este directorio.
+
+Los ficheros deben comenzar por "q" seguidos de cualquier cosa. 
+
+Cada fichero contiene:
+Una línea con la pregunta.
+Tres líneas con tres posibles respuestas.
+Una línea con la letra (mayúscula) correspondiente a la respuesta acertada.
+
+
