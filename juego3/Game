@@ -6,6 +6,7 @@
 # Author: Alfonso E.M.
 # License: Free (GPL) 
 # Version: 2.0 - /Apr/2007
+#Modificado por Carlos Bustillo
 
 import pygame
 import os,sys

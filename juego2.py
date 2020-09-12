@@ -3,7 +3,7 @@ import numpy as np
 from matplotlib import pyplot as plt
 
 # Imagen a analizar
-imagenColor = cv2.imread('./Recursos/juego2/photo0.png')
+imagenColor = cv2.imread('./Recursos/juego2/photo1.png')
 imagenGris = cv2.cvtColor(imagenColor, cv2.COLOR_BGR2GRAY)
 
 cont=0      #Cantidad de rectangulos
