@@ -38,4 +38,4 @@ Intenta encontrar las diferencias vos mismo, y después aplica el script ```jueg
  -Para el juego de TriviaGame me base en el juego [guadaquiz](https://github.com/guadalinex-archive/guadaquiz) que presenta una licencia GPL.
  
  # Licencia
- Este proyecto esta bajo Licence (Apache License 2.0).
+ Este proyecto esta bajo Licence (MIT).
