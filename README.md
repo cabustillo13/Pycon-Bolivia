@@ -9,6 +9,8 @@ Se plantea la _Gamificación_, busca aumentar la motivación de los participante
 
 Este juego es ideal para aprender mediante preguntas y respuestas, diferentes datos sobre los expositores y actividades de la Pycon. Siempre se puede aprender algo nuevo. Para este caso se puede ejecutar el ejecutable ```Game``` de la carpeta _juego3_. Es un juego hecho con la librería Pygame.
 
+**Cuando descargues este juego y lo ejecutes, recuerda activar el audio de tu computadora para una mejor experiencia.**
+
 [![Ver Demo](https://github.com/cabustillo13/Pycon-Bolivia/blob/master/Recursos/portada.png)](https://youtu.be/PBkFbsfmMw4)
 
 ## Juego 2: ¿Cuántos logos hay en la imagen?
