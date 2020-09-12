@@ -31,11 +31,11 @@ Intenta encontrar las diferencias vos mismo, y después aplica el script ```jueg
  
  # Recursos
  
- -Las imágenes son propiedad de [Pycon Bolivia](https://www.facebook.com/pyconbolivia) y [PyLadies Cochabamba](https://www.facebook.com/PyladiesCbba).
+ - Las imágenes son propiedad de [Pycon Bolivia](https://www.facebook.com/pyconbolivia) y [PyLadies Cochabamba](https://www.facebook.com/PyladiesCbba).
  
- -Los sonidos fueron obtenidos de [Freesound.org](https://freesound.org) cuyos recursos presentan licencia Creative Commons CC BY-NC 3.0.
+ - Los sonidos fueron obtenidos de [Freesound.org](https://freesound.org) cuyos recursos presentan licencia Creative Commons CC BY-NC 3.0.
  
- -Para el juego de TriviaGame me base en el juego [guadaquiz](https://github.com/guadalinex-archive/guadaquiz) que presenta una licencia GPL.
+ - Para el juego de TriviaGame me base en el juego [guadaquiz](https://github.com/guadalinex-archive/guadaquiz) que presenta una licencia GPL.
  
  # Licencia
  Este proyecto esta bajo Licence (MIT).
