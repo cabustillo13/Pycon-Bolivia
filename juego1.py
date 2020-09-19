@@ -4,6 +4,7 @@ import imutils
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
+plt.rcParams['image.cmap'] = 'gray'
 
 # Cargar la imagen a analizar
 imagen = cv2.imread("./Recursos/juego1/photo0.jpg")

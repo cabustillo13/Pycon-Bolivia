@@ -7,9 +7,9 @@ def load_image(dir,name, colorkey=None):
     fullname = os.path.join(dir,'Imagenes', name)
     try:
         image = pygame.image.load(fullname)
-    except pygame.error, message:
-        print 'Cannot load image:', name
-        raise SystemExit, message
+    except pygame.error or message:
+        print ('Cannot load image:', name)
+        raise SystemExit and message
     image = image.convert()
     if colorkey is not None:
         if colorkey is -1:
@@ -25,15 +25,16 @@ def load_sound(dir,name):
     fullname = os.path.join(dir,'Sonidos', name)
     try:
         sound = pygame.mixer.Sound(fullname)
-    except pygame.error, message:
-        print 'Cannot load sound:', name
-        raise SystemExit, message
+    except pygame.error or message:
+        print ('Cannot load sound:', name)
+        raise SystemExit and message
     return sound
 
 def show_help():
-        print """
-Usage:
+        print (""" 
+            Usage:
    -h   --help          This simple help
    -d   --dir=xxx       Questions directory (under questions)
    -p   --players=n     Number of players (1-4)
-        """
+
+        """)
