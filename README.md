@@ -11,8 +11,6 @@ Este juego es ideal para aprender mediante preguntas y respuestas, diferentes da
 
 **Cuando descargues este juego y lo ejecutes, recuerda activar el audio de tu computadora para una mejor experiencia.** 
 
-**Haz click en la imagen para ver el demo.**
-
 ![Demo Juego3](https://github.com/cabustillo13/Pycon-Bolivia/blob/master/juego3/Imagenes/Demo%20Game.gif)
 
 ## Juego 2: ¿Cuántos logos hay en la imagen?
