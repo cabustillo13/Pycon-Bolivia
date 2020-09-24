@@ -33,6 +33,10 @@ Intenta encontrar las diferencias vos mismo, y después aplica el script ```jueg
 
  <img src="https://github.com/cabustillo13/Pycon-Bolivia/blob/master/Recursos/comparacion.png" height="300" width="750">
  
+ # Manual de Uso y Tutoriales de cómo ejecutar cada juego
+ 
+ [Ver Manual](https://github.com/cabustillo13/Pycon-Bolivia/blob/master/Recursos/Manual%20Pycon%20Bolivia.pdf)
+ 
  # Recursos
  
  - Las imágenes son propiedad de [Pycon Bolivia](https://www.facebook.com/pyconbolivia) y [PyLadies Cochabamba](https://www.facebook.com/PyladiesCbba).
