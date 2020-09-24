@@ -13,7 +13,7 @@ Este juego es ideal para aprender mediante preguntas y respuestas, diferentes da
 
 **Haz click en la imagen para ver el demo.**
 
-[![Ver Demo](https://github.com/cabustillo13/Pycon-Bolivia/blob/master/Recursos/portada.png)](https://youtu.be/TU5xsnuRUQI)
+![Demo Juego3](https://github.com/cabustillo13/Pycon-Bolivia/blob/master/juego3/Imagenes/Demo%20Game.gif)
 
 ## Juego 2: ¿Cuántos logos hay en la imagen?
 
